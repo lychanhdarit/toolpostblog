@@ -18,15 +18,12 @@ C:\DEVELOPER\toolpostblog\ToolPost\ToolPost\bin\ToolPost.pdb
 C:\DEVELOPER\toolpostblog\ToolPost\ToolPost\bin\Antlr3.Runtime.dll
 C:\DEVELOPER\toolpostblog\ToolPost\ToolPost\bin\AspNet.ScriptManager.bootstrap.dll
 C:\DEVELOPER\toolpostblog\ToolPost\ToolPost\bin\AspNet.ScriptManager.jQuery.dll
-C:\DEVELOPER\toolpostblog\ToolPost\ToolPost\bin\CKEditor.NET.dll
-C:\DEVELOPER\toolpostblog\ToolPost\ToolPost\bin\HtmlAgilityPack.dll
 C:\DEVELOPER\toolpostblog\ToolPost\ToolPost\bin\Microsoft.AI.Agent.Intercept.dll
 C:\DEVELOPER\toolpostblog\ToolPost\ToolPost\bin\Microsoft.AI.DependencyCollector.dll
 C:\DEVELOPER\toolpostblog\ToolPost\ToolPost\bin\Microsoft.AI.PerfCounterCollector.dll
 C:\DEVELOPER\toolpostblog\ToolPost\ToolPost\bin\Microsoft.AI.ServerTelemetryChannel.dll
 C:\DEVELOPER\toolpostblog\ToolPost\ToolPost\bin\Microsoft.AI.Web.dll
 C:\DEVELOPER\toolpostblog\ToolPost\ToolPost\bin\Microsoft.AI.WindowsServer.dll
-C:\DEVELOPER\toolpostblog\ToolPost\ToolPost\bin\Microsoft.ApplicationBlocks.Data.dll
 C:\DEVELOPER\toolpostblog\ToolPost\ToolPost\bin\Microsoft.ApplicationInsights.dll
 C:\DEVELOPER\toolpostblog\ToolPost\ToolPost\bin\Microsoft.AspNet.FriendlyUrls.dll
 C:\DEVELOPER\toolpostblog\ToolPost\ToolPost\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll

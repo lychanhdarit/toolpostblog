@@ -162,6 +162,7 @@
     <Content Include="log.txt" />
     <Content Include="login\default.aspx" />
     <Content Include="main.Master" />
+    <None Include="Properties\PublishProfiles\auto.pubxml" />
     <None Include="scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="scripts\ai.0.22.9-build00167.js" />
     <Content Include="scripts\ai.0.22.9-build00167.min.js" />
