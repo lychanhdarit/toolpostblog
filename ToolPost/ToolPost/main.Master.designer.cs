@@ -31,6 +31,15 @@ namespace ToolPost {
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
         
         /// <summary>
+        /// checklogin control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::ToolPost.checklogin checklogin;
+        
+        /// <summary>
         /// contentPage control.
         /// </summary>
         /// <remarks>

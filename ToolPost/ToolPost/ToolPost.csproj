@@ -146,8 +146,10 @@
   <ItemGroup>
     <Content Include="blogs\categorys\default.aspx" />
     <Content Include="blogs\default.aspx" />
+    <Content Include="checklogin.ascx" />
     <Content Include="content\bootstrap.css" />
     <Content Include="content\bootstrap.min.css" />
+    <Content Include="content\css\style.css" />
     <Content Include="content\Site.css" />
     <Content Include="default.aspx" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
@@ -157,6 +159,7 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="log.txt" />
     <Content Include="login\default.aspx" />
     <Content Include="main.Master" />
     <None Include="scripts\jquery-1.10.2.intellisense.js" />
@@ -193,6 +196,8 @@
     <Content Include="scripts\_references.js" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
+    <Content Include="sources\data-spin\default.aspx" />
+    <Content Include="sources\default.aspx" />
     <Content Include="Web.config" />
     <Content Include="Bundle.config" />
     <Content Include="packages.config" />
@@ -221,6 +226,13 @@
     <Compile Include="blogs\default.aspx.designer.cs">
       <DependentUpon>default.aspx</DependentUpon>
     </Compile>
+    <Compile Include="checklogin.ascx.cs">
+      <DependentUpon>checklogin.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="checklogin.ascx.designer.cs">
+      <DependentUpon>checklogin.ascx</DependentUpon>
+    </Compile>
     <Compile Include="default.aspx.cs">
       <DependentUpon>default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -235,6 +247,7 @@
     <Compile Include="lib\BaseServ.cs" />
     <Compile Include="lib\BaseView.cs" />
     <Compile Include="lib\DBClass.cs" />
+    <Compile Include="lib\MailDaemon.cs" />
     <Compile Include="lib\ToSQL.cs" />
     <Compile Include="login\default.aspx.cs">
       <DependentUpon>default.aspx</DependentUpon>
@@ -251,6 +264,20 @@
       <DependentUpon>main.Master</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="sources\data-spin\default.aspx.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="sources\data-spin\default.aspx.designer.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="sources\default.aspx.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="sources\default.aspx.designer.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup />
   <PropertyGroup>
